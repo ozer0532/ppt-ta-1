@@ -2,6 +2,7 @@
 theme: default
 title: Seminar TA 1 Ozer
 titleTemplate: '%s - Slidev'
+download: true
 
 fonts:
   sans: 'Roboto'
