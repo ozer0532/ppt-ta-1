@@ -11,5 +11,9 @@
     "@slidev/theme-default": "*",
     "@slidev/theme-seriph": "*"
   },
-  "name": "proposal"
+  "name": "proposal",
+  "devDependencies": {
+    "@iconify-json/file-icons": "^1.0.1",
+    "@iconify-json/mdi": "^1.0.12"
+  }
 }
